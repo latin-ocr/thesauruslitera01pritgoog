@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./thesauruslitera01pritgoog_0010.png"; bbox 0 0 5234 6184; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2 2547 2226 2847">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2 2547 2226 2847">
+     <span class='ocr_line' id='line_1_1' title="bbox 2 2547 2226 2847; baseline 0.001 -74"><span class='ocrx_word' id='word_1_1' title='bbox 2 2640 4 2661; x_wconf 92' lang='lat'><em>·</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 195 2547 200 2555; x_wconf 81' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 316 2591 849 2774; x_wconf 67' lang='lat' dir='ltr'>THESAURUS</span> <span class='ocrx_word' id='word_1_4' title='bbox 912 2603 1555 2847; x_wconf 73' lang='lat' dir='ltr'>LITERATURAE</span> <span class='ocrx_word' id='word_1_5' title='bbox 1615 2603 2143 2779; x_wconf 70' lang='lat' dir='ltr'><strong>BOTANIOAE.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2224 2669 2226 2674; x_wconf 91' lang='lat'>·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2622 6180">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 2622 6180">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 2622 6180; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 2622 6180; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
